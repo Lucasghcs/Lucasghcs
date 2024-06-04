@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu Perfil
 
  <div>
-   <a href="https://github.com/devemdobro">
+   <a href="https://github.com/lucasghcs">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasghcs&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasghcs&layout=compact&langs_count=6&theme=vue-dark"/>
 </div>
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Minhas redes sociais
  
 <div> 
   <a href="https://instagram.com/lucasghcs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
